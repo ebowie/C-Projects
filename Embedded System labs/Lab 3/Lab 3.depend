@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1427664869 source:c:\users\eric\desktop\lab 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	<Windows.h>
+
+1427746479 source:c:\users\eric\google drive\embedded system labs\lab 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	<Windows.h>
+	<signal.h>
+

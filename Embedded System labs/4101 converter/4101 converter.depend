@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1427218746 source:c:\users\eric\desktop\4101 converter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
